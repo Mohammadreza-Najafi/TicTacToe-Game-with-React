@@ -1,7 +1,6 @@
 import {useState} from "react";
 import Board from "./Board";
 import {CalcWin} from "../CalcWin";
-// import {}
 
 const styles={
     width:"200px",
